@@ -1,5 +1,6 @@
 -Azul
--Negro
+-Lila
 -Verde
--Morado
+-Rosa
 -Rojo
+-Magenta
